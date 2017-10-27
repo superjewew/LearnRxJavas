@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn RxJava</string>
+    <string name="error_message">Error occured</string>
+    <string name="increment">Increase it!</string>
+    <string name="search_hint">Search here</string>
+    <string name="no_results">No search results found!</string>
+</resources>
